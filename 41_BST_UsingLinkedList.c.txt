@@ -1,4 +1,4 @@
-/* Sachin R
+/* Stephen thomas
    s3 D
    BST Using Linked List*/
    
