@@ -1,8 +1,8 @@
 /*
   31
   Circular Queue using Linked list
-  Name: Sayooj K
-  Roll no: 45
+  Name: stephen thomas
+  Roll no: 50
  */
 
 #include<stdio.h>
