@@ -1,4 +1,4 @@
-/* Sachin R
+/* Stephen thomas
    s3 D
    polynomial multiplication*/
 #include <stdio.h>
