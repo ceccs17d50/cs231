@@ -1,8 +1,8 @@
 /*
   33
   Binary tree using array
-  Name:Sayooj K
-  Roll no: 45
+  Name:Stephen thomas
+  Roll no: 50
  */
 
 #include<stdio.h>
