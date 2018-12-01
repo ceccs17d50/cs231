@@ -1,8 +1,8 @@
 /*
   32
   Binary Tree Using Linkedlist
-  Name: Sayooj K
-  Roll no: 45
+  Name: Stephen thomas
+  Roll no: 50
  */
 
 #include<stdio.h>
