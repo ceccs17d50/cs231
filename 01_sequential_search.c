@@ -1,3 +1,6 @@
+/* stephen thomas
+s3 d
+50*/
 #include<stdio.h>
 
 int main () 
