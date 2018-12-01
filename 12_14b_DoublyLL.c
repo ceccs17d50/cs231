@@ -1,8 +1,8 @@
 /*
  * 12_14b
  * Doubly LL - insert at begin, at end, after a value searched & Doubly LL - first, last, search and delete
- * Name: Sayooj K
- * Roll no: 45
+ * Name: Stephen thomas
+ * Roll no: 50
  */
 
 #include <stdio.h>
